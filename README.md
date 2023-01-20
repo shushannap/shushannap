@@ -10,6 +10,7 @@
   I'm a recent graduate of General Assembly's Full Stack Software Engineering Immersive Program. I have a background in political science and accounting. I've always had a passion for technology and am excited to continue honing my skills.
   
   <br>  
+  
   ## :pencil: Projects 
   
   #### [Minesweeper](https://github.com/shushannap/GA-Project-1-Minesweeper)
