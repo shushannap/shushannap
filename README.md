@@ -7,7 +7,7 @@
 
 
 
-  I'm a recent graduate of General Assembly's Full Stack Software Engineering Immersive Program. I have a background in political science and accounting. I've always had a passion for technology and am excited to continue honing my skills.
+  I'm pursuing a Bachelor's of Science in Computer Science at Oregon State University.
   
   <br>  
   
